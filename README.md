@@ -7,10 +7,13 @@ width="150"/>
 
 ### Programación I
 
-### Algoritmos  
-**Definición:**  
-Secuencia finita y ordenada de pasos que permiten resolver un problema.  
-Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.  
+<details open>
+<summary>🗒 Tarjeta: Algoritmos ±</summary>
+
+| Definición |
+| ---- |
+| Secuencia finita y ordenada de pasos que permiten resolver un problema. |
+| Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución. |
 
 **Descripción:**  
 - **Nombre**  
@@ -22,8 +25,6 @@ Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a 
 ### Actividad  
 
 ---
-
-## Ventajas de la notación Hexa  
 
 ### Actividad  
 
