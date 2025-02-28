@@ -24,9 +24,7 @@ width="150"/>
 
 ### Actividad  
 
----
-
-### Actividad  
+![Actividad 1](./assets/actividad1.png)
 
 ---
 
